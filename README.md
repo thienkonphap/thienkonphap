@@ -5,7 +5,8 @@
 ##### NOW
 
 - 🇻🇳 is where I'm from;
-- 🎓 Master's Data Sicence Degree | University of Paris Saclay;
+- 🎓 Master's Computer Science for Finance | University of Paris Dauphine PSL;
+- 🎓 Master's Data Sicence | University of Paris Saclay;
 
 ##### BIO
 
