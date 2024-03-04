@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Société Général**
+- 🏢 I'm currently working at **Société Générale**
 - ⚙️ I use daily: `.scala`, `.python`, `.java`, `.spark`, `.hadoop`
 - 🌍 I'm mostly active within the **Data Community**
 - 🌱 Learning all about **Open Source**
