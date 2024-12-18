@@ -16,4 +16,3 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Big Data**, **AI**, **Machine Learning**
 - 📫 Reach me: [linkedin.com/in/thienguyen](https://linkedin.com/in/thienguyen)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
