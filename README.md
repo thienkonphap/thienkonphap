@@ -7,10 +7,10 @@
 - 🇻🇳 is where I'm from;
 - 🎓 Master's Computer Science for Finance | University of Paris Dauphine PSL;
 - 🎓 Master's Data Sicence | University of Paris Saclay;
+- 🏢 I'm currently working at **Société Générale**
 
 ##### BIO
 
-- 🏢 I'm currently working at **Société Générale**
 - ⚙️ I use daily: `.scala`, `.python`, `.java`, `.spark`, `.hadoop`
 - 🌍 I'm mostly active within the **Data Community**
 - 🌱 Learning all about **Open Source**
